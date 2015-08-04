@@ -1,0 +1,13 @@
+*.class
+ 
+target
+
+.cache
+
+.classpath
+
+.project
+
+.settings
+
+lib_managed
